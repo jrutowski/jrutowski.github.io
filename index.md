@@ -5,7 +5,7 @@
 ### Large Scale Projects
 
 [Webscraping News Articles for SlackBots](/scraping-articles)
-<img src="images/End Result Screenshot.png"/>
+<img src="images/End Result Screenshot.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
