@@ -19,7 +19,7 @@
 
 ### Miscellaneous Projects
 
-- [Project Euler Solutions](/project-euler)
+- [Project Euler Solutions](http://jrutowski.github.io/project-euler)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
