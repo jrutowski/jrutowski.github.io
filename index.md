@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Large Scale Projects
 
 [Webscraping News Articles for SlackBots](/scraping-articles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Miscellaneous Projects
 
-- [Project 1 Title](http://example.com/)
+- [Project Euler Solutions](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
