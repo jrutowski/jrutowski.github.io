@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Webscraping News Articles for SlackBots](/scraping-articles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
