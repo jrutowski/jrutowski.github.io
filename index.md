@@ -2,10 +2,11 @@
 
 ---
 
-### Large Scale Projects
+###  Large Scale Projects 
 
 [Benford's Law and COVID-19 Reporting](/covid-benford)
 <img src="images/COVID Pic.jpg"/>
+
 ---
 
 [Webscraping News Articles for SlackBots](/scraping-articles)
