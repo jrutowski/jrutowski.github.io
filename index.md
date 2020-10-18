@@ -7,6 +7,7 @@
 [Benford's Law and COVID-19 Reporting](/covid-benford)
 <img src="images/COVID Pic.jpg"/>
 ---
+
 [Webscraping News Articles for SlackBots](/scraping-articles)
 <img src="images/End Result Screenshot.PNG"/>
 
