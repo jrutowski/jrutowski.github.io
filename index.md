@@ -4,7 +4,7 @@
 
 ###  Large Scale Projects 
 
-[Benford's Law and COVID-19 Reporting](/covid-benford)
+[Benford's Law and COVID-19 Reporting](https://jrutowski.github.io/covid-benford/README.html)
 <img src="images/COVID Pic.jpg"/>
 
 ---
